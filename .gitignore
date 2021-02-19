@@ -1,0 +1,5 @@
+node_modules/
+**/*.js
+output.txt
+intermediate.json
+wordcounts.txt
